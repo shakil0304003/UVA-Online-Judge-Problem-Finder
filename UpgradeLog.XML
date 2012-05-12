@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ACMProblemFinder">
+</Property><Property Name="Solution File" Value="E:\ACMProblemFinder\ACMProblemFinder.sln">
+</Property><Property Name="User Options File" Value="E:\ACMProblemFinder\ACMProblemFinder.suo">
+</Property><Property Name="Date" Value="Saturday, May 12, 2012">
+</Property><Property Name="Time" Value="11:10 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ACMProblemFinder.sln" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ACMProblemFinder.suo" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder.suo">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\ACMProblemFinder.csproj" Description="Project file successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\ACMProblemFinder.csproj">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Form1.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Form1.Designer.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\ProblemStatus.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\ProblemStatus.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Program.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Program.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Result.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Result.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Result.Designer.cs" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Result.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Properties\Settings.settings" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Form1.resx" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Properties\Resources.resx" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\Result.resx" Description="File successfully backed up as E:\ACMProblemFinder\Backup\ACMProblemFinder\Result.resx">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\ACMProblemFinder.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ACMProblemFinder" Source="ACMProblemFinder\ACMProblemFinder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ACMProblemFinder.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ACMProblemFinder.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ACMProblemFinder" Source="ACMProblemFinder\ACMProblemFinder.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
